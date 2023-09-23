@@ -1,13 +1,13 @@
 #ifndef MAIN_H
 #define MAIN_H
-#include <stdarg.h>
-#include <stdint.h>
+
 
 #include <stdarg.h>
 #include <stdlib.h>
-#include <stdio.h>
 #include <stdint.h>
 #include <unistd.h>
+
+#define BUFF_SIZE
 
 struct convert
 {
